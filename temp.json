@@ -1,0 +1,47 @@
+[
+  {
+    "name": "KD 8 id",
+    "description": "The remarkably lightweight KD 8 iD Basketball Shoe is like a seatbelt for your foot—flexible and comfortable, providing instant support and lockdown at critical moments. Customise yours with unique graphics, premium accents and the outsole of your choice.",
+    "shine": 8,
+    "price": 320.00,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "images/shoes-01.png",
+      "images/shoes-02.png",
+      "images/shoes-03.png"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Lunar Control iD",
+    "description": "The Nike Lunar Control iD features premium Lunarlon cushioning and dynamic Flywire for springy impact protection and support, plus a Nike Control Platform for incredible stability throughout your swing. For the first time, you can personalise the look and feel of your Nike Lunar Control with colours, graphics and breathability options",
+    "shine": 9,
+    "price": 300.00,
+    "rarity": 6,
+    "color": "#EEE",
+    "faces": 12,
+    "images": [
+      "images/shoes-04.png",
+      "images/shoes-05.png",
+      "images/shoes-06.png"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Hyperdunk 2015 iD",
+    "description": "The Nike Hyperdunk 2015 iD Basketball Shoe offers responsive, low-profile cushioning and flexible support with Nike Zoom Air and dynamic foam in the collar. Step up your game with customisable graphics, colours and the sole of your choice.",
+    "shine": 70,
+    "price": 260.00,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "images/shoes-07.png",
+      "images/shoes-08.png",
+      "images/shoes-09.png"
+    ],
+    "reviews": []
+  }
+]
